@@ -351,3 +351,15 @@ img {
   border-radius: 250px;
   rotate: -16deg;
 }
+.sub_btn {
+  background: rgb(31, 146, 253);
+  color: white;
+  padding: 0.7rem 2rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.sub_btn:hover {
+  background: rgba(26, 139, 231, 0.767);
+}
